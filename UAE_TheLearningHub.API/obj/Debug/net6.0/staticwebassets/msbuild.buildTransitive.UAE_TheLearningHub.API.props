@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\UAE_TheLearningHub.API.props" />
+</Project>

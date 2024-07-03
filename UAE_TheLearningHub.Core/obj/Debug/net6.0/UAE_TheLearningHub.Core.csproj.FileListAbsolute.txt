@@ -1,0 +1,12 @@
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Core\bin\Debug\net6.0\UAE_TheLearningHub.Core.deps.json
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Core\bin\Debug\net6.0\UAE_TheLearningHub.Core.dll
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Core\bin\Debug\net6.0\UAE_TheLearningHub.Core.pdb
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Core\obj\Debug\net6.0\UAE_TheLearningHub.Core.csproj.AssemblyReference.cache
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Core\obj\Debug\net6.0\UAE_TheLearningHub.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Core\obj\Debug\net6.0\UAE_TheLearningHub.Core.AssemblyInfoInputs.cache
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Core\obj\Debug\net6.0\UAE_TheLearningHub.Core.AssemblyInfo.cs
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Core\obj\Debug\net6.0\UAE_TheLearningHub.Core.csproj.CoreCompileInputs.cache
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Core\obj\Debug\net6.0\UAE_TheLearningHub.Core.dll
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Core\obj\Debug\net6.0\refint\UAE_TheLearningHub.Core.dll
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Core\obj\Debug\net6.0\UAE_TheLearningHub.Core.pdb
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Core\obj\Debug\net6.0\ref\UAE_TheLearningHub.Core.dll

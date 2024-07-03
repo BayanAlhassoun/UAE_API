@@ -1,0 +1,17 @@
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Infra\bin\Debug\net6.0\UAE_TheLearningHub.Infra.deps.json
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Infra\bin\Debug\net6.0\UAE_TheLearningHub.Infra.runtimeconfig.json
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Infra\bin\Debug\net6.0\UAE_TheLearningHub.Infra.dll
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Infra\bin\Debug\net6.0\UAE_TheLearningHub.Infra.pdb
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Infra\bin\Debug\net6.0\UAE_TheLearningHub.Core.dll
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Infra\bin\Debug\net6.0\UAE_TheLearningHub.Core.pdb
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Infra\obj\Debug\net6.0\UAE_TheLearningHub.Infra.csproj.AssemblyReference.cache
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Infra\obj\Debug\net6.0\UAE_TheLearningHub.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Infra\obj\Debug\net6.0\UAE_TheLearningHub.Infra.AssemblyInfoInputs.cache
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Infra\obj\Debug\net6.0\UAE_TheLearningHub.Infra.AssemblyInfo.cs
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Infra\obj\Debug\net6.0\UAE_TheLearningHub.Infra.csproj.CoreCompileInputs.cache
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Infra\obj\Debug\net6.0\UAE_TheL.29A484D4.Up2Date
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Infra\obj\Debug\net6.0\UAE_TheLearningHub.Infra.dll
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Infra\obj\Debug\net6.0\refint\UAE_TheLearningHub.Infra.dll
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Infra\obj\Debug\net6.0\UAE_TheLearningHub.Infra.pdb
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Infra\obj\Debug\net6.0\UAE_TheLearningHub.Infra.genruntimeconfig.cache
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.Infra\obj\Debug\net6.0\ref\UAE_TheLearningHub.Infra.dll
