@@ -1,7 +1,9 @@
 using UAE_TheLearningHub.Core.Common;
 using UAE_TheLearningHub.Core.Repository;
+using UAE_TheLearningHub.Core.Service;
 using UAE_TheLearningHub.Infra.Common;
 using UAE_TheLearningHub.Infra.Repository;
+using UAE_TheLearningHub.Infra.Service;
 
 namespace UAE_TheLearningHub.API
 {
@@ -16,6 +18,8 @@ namespace UAE_TheLearningHub.API
             builder.Services.AddControllers();
             builder.Services.AddScoped<IDbContext, DbContext>();
             builder.Services.AddScoped<ICourseRepository, CourseRepository>();
+            builder.Services.AddScoped<ICourseService, CourseService>();
+
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
