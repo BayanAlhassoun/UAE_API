@@ -101,3 +101,4 @@ C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.
 C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.API\obj\Debug\net6.0\UAE_TheLearningHub.API.genruntimeconfig.cache
 C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.API\obj\Debug\net6.0\ref\UAE_TheLearningHub.API.dll
 C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.API\obj\Debug\net6.0\UAE_TheLearningHub.API.sourcelink.json
+C:\Users\b.alhassoun.ext\source\repos\UAE_TheLearningHub.API\UAE_TheLearningHub.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

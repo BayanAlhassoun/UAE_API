@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using UAE_TheLearningHub.Core.Data;
 using UAE_TheLearningHub.Core.Service;
@@ -38,6 +39,7 @@ namespace UAE_TheLearningHub.API.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public async Task<List<Course>> GetAllCourses() // API=> localhost/port/Api/Course => Get
         {
            return await _courseService.GetAllCourses();
@@ -49,5 +51,20 @@ namespace UAE_TheLearningHub.API.Controllers
         {
             return await _courseService.GetCourseById(id);
         }
+
+        [HttpPost]
+        [Route("UploadCourseImage")]
+        public string UploadImage()
+        {
+            var file = Request.Form.Files[0]; //PersonalPhoto
+            var fileName = Guid.NewGuid().ToString() + "_" + file.FileName;
+            var fullPath = Path.Combine("C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.API\\Images\\" , fileName);
+            using (var stream = new FileStream(fullPath , FileMode.Create))
+            {
+                file.CopyTo(stream);
+            }
+            return fileName;
+        }
+
     }
 }
