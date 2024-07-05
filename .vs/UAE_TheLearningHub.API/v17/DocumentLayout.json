@@ -7,6 +7,42 @@
       "RelativeMoniker": "D:0:0:{64A1A673-E468-4DD3-9DB8-132D88E6D1BF}|UAE_TheLearningHub.API\\UAE_TheLearningHub.API.csproj|solutionrelative:uae_thelearninghub.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D9882F4B-3AAB-4995-A7CC-60CFADDA07C8}|UAE_TheLearningHub.Infra\\UAE_TheLearningHub.Infra.csproj|c:\\users\\b.alhassoun.ext\\source\\repos\\uae_thelearninghub.api\\uae_thelearninghub.infra\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9882F4B-3AAB-4995-A7CC-60CFADDA07C8}|UAE_TheLearningHub.Infra\\UAE_TheLearningHub.Infra.csproj|solutionrelative:uae_thelearninghub.infra\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A8A54A-C0E2-428F-AD80-295809A40E1E}|UAE_TheLearningHub.Core\\UAE_TheLearningHub.Core.csproj|c:\\users\\b.alhassoun.ext\\source\\repos\\uae_thelearninghub.api\\uae_thelearninghub.core\\service\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A8A54A-C0E2-428F-AD80-295809A40E1E}|UAE_TheLearningHub.Core\\UAE_TheLearningHub.Core.csproj|solutionrelative:uae_thelearninghub.core\\service\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A8A54A-C0E2-428F-AD80-295809A40E1E}|UAE_TheLearningHub.Core\\UAE_TheLearningHub.Core.csproj|c:\\users\\b.alhassoun.ext\\source\\repos\\uae_thelearninghub.api\\uae_thelearninghub.core\\repository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A8A54A-C0E2-428F-AD80-295809A40E1E}|UAE_TheLearningHub.Core\\UAE_TheLearningHub.Core.csproj|solutionrelative:uae_thelearninghub.core\\repository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9882F4B-3AAB-4995-A7CC-60CFADDA07C8}|UAE_TheLearningHub.Infra\\UAE_TheLearningHub.Infra.csproj|c:\\users\\b.alhassoun.ext\\source\\repos\\uae_thelearninghub.api\\uae_thelearninghub.infra\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9882F4B-3AAB-4995-A7CC-60CFADDA07C8}|UAE_TheLearningHub.Infra\\UAE_TheLearningHub.Infra.csproj|solutionrelative:uae_thelearninghub.infra\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A8A54A-C0E2-428F-AD80-295809A40E1E}|UAE_TheLearningHub.Core\\UAE_TheLearningHub.Core.csproj|c:\\users\\b.alhassoun.ext\\source\\repos\\uae_thelearninghub.api\\uae_thelearninghub.core\\dto\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A8A54A-C0E2-428F-AD80-295809A40E1E}|UAE_TheLearningHub.Core\\UAE_TheLearningHub.Core.csproj|solutionrelative:uae_thelearninghub.core\\dto\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A1A673-E468-4DD3-9DB8-132D88E6D1BF}|UAE_TheLearningHub.API\\UAE_TheLearningHub.API.csproj|c:\\users\\b.alhassoun.ext\\source\\repos\\uae_thelearninghub.api\\uae_thelearninghub.api\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A1A673-E468-4DD3-9DB8-132D88E6D1BF}|UAE_TheLearningHub.API\\UAE_TheLearningHub.API.csproj|solutionrelative:uae_thelearninghub.api\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A8A54A-C0E2-428F-AD80-295809A40E1E}|UAE_TheLearningHub.Core\\UAE_TheLearningHub.Core.csproj|c:\\users\\b.alhassoun.ext\\source\\repos\\uae_thelearninghub.api\\uae_thelearninghub.core\\dto\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A8A54A-C0E2-428F-AD80-295809A40E1E}|UAE_TheLearningHub.Core\\UAE_TheLearningHub.Core.csproj|solutionrelative:uae_thelearninghub.core\\dto\\weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A8A54A-C0E2-428F-AD80-295809A40E1E}|UAE_TheLearningHub.Core\\UAE_TheLearningHub.Core.csproj|c:\\users\\b.alhassoun.ext\\source\\repos\\uae_thelearninghub.api\\uae_thelearninghub.core\\dto\\coursescountpercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A8A54A-C0E2-428F-AD80-295809A40E1E}|UAE_TheLearningHub.Core\\UAE_TheLearningHub.Core.csproj|solutionrelative:uae_thelearninghub.core\\dto\\coursescountpercategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A8A54A-C0E2-428F-AD80-295809A40E1E}|UAE_TheLearningHub.Core\\UAE_TheLearningHub.Core.csproj|c:\\users\\b.alhassoun.ext\\source\\repos\\uae_thelearninghub.api\\uae_thelearninghub.core\\dto\\course_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A8A54A-C0E2-428F-AD80-295809A40E1E}|UAE_TheLearningHub.Core\\UAE_TheLearningHub.Core.csproj|solutionrelative:uae_thelearninghub.core\\dto\\course_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{64A1A673-E468-4DD3-9DB8-132D88E6D1BF}|UAE_TheLearningHub.API\\UAE_TheLearningHub.API.csproj|c:\\users\\b.alhassoun.ext\\source\\repos\\uae_thelearninghub.api\\uae_thelearninghub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64A1A673-E468-4DD3-9DB8-132D88E6D1BF}|UAE_TheLearningHub.API\\UAE_TheLearningHub.API.csproj|solutionrelative:uae_thelearninghub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +62,141 @@
       "DocumentGroups": [
         {
           "DockedHeight": 326,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.Infra\\Service\\CourseService.cs",
+              "RelativeDocumentMoniker": "UAE_TheLearningHub.Infra\\Service\\CourseService.cs",
+              "ToolTip": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.Infra\\Service\\CourseService.cs",
+              "RelativeToolTip": "UAE_TheLearningHub.Infra\\Service\\CourseService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwCwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:14:45.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.Core\\Service\\ICourseService.cs",
+              "RelativeDocumentMoniker": "UAE_TheLearningHub.Core\\Service\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.Core\\Service\\ICourseService.cs",
+              "RelativeToolTip": "UAE_TheLearningHub.Core\\Service\\ICourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:14:14.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.Infra\\Repository\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "UAE_TheLearningHub.Infra\\Repository\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.Infra\\Repository\\CourseRepository.cs",
+              "RelativeToolTip": "UAE_TheLearningHub.Infra\\Repository\\CourseRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:10:17.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Search.cs",
+              "DocumentMoniker": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.Core\\DTO\\Search.cs",
+              "RelativeDocumentMoniker": "UAE_TheLearningHub.Core\\DTO\\Search.cs",
+              "ToolTip": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.Core\\DTO\\Search.cs",
+              "RelativeToolTip": "UAE_TheLearningHub.Core\\DTO\\Search.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:07:52.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.Core\\Repository\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "UAE_TheLearningHub.Core\\Repository\\ICourseRepository.cs",
+              "ToolTip": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.Core\\Repository\\ICourseRepository.cs",
+              "RelativeToolTip": "UAE_TheLearningHub.Core\\Repository\\ICourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:06:32.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Weather.cs",
+              "DocumentMoniker": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.Core\\DTO\\Weather.cs",
+              "RelativeDocumentMoniker": "UAE_TheLearningHub.Core\\DTO\\Weather.cs",
+              "ToolTip": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.Core\\DTO\\Weather.cs",
+              "RelativeToolTip": "UAE_TheLearningHub.Core\\DTO\\Weather.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA8wCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T06:15:55.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoursesCountPerCategory.cs",
+              "DocumentMoniker": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.Core\\DTO\\CoursesCountPerCategory.cs",
+              "RelativeDocumentMoniker": "UAE_TheLearningHub.Core\\DTO\\CoursesCountPerCategory.cs",
+              "ToolTip": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.Core\\DTO\\CoursesCountPerCategory.cs",
+              "RelativeToolTip": "UAE_TheLearningHub.Core\\DTO\\CoursesCountPerCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T06:13:31.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.API\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "UAE_TheLearningHub.API\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.API\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "UAE_TheLearningHub.API\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAowE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:09:27.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course_Category.cs",
+              "DocumentMoniker": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.Core\\DTO\\Course_Category.cs",
+              "RelativeDocumentMoniker": "UAE_TheLearningHub.Core\\DTO\\Course_Category.cs",
+              "ToolTip": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.Core\\DTO\\Course_Category.cs",
+              "RelativeToolTip": "UAE_TheLearningHub.Core\\DTO\\Course_Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T06:09:22.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.API\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "UAE_TheLearningHub.API\\Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.API\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "UAE_TheLearningHub.API\\Controllers\\WeatherController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T05:58:13.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.API\\Program.cs",
               "RelativeDocumentMoniker": "UAE_TheLearningHub.API\\Program.cs",
@@ -43,20 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.API\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "UAE_TheLearningHub.API\\Controllers\\CourseController.cs",
-              "ToolTip": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.API\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "UAE_TheLearningHub.API\\Controllers\\CourseController.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAA7wEYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T10:09:27.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.API\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "UAE_TheLearningHub.API\\Controllers\\LoginController.cs",
@@ -69,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "LoginService.cs",
               "DocumentMoniker": "C:\\Users\\b.alhassoun.ext\\source\\repos\\UAE_TheLearningHub.API\\UAE_TheLearningHub.Infra\\Service\\LoginService.cs",
               "RelativeDocumentMoniker": "UAE_TheLearningHub.Infra\\Service\\LoginService.cs",

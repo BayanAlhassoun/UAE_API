@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using UAE_TheLearningHub.Core.Data;
+using UAE_TheLearningHub.Core.DTO;
 using UAE_TheLearningHub.Core.Repository;
 using UAE_TheLearningHub.Core.Service;
 
@@ -37,6 +38,11 @@ namespace UAE_TheLearningHub.Infra.Service
         {
            return await _courseRepository.GetCourseById(id);
 
+        }
+
+        public List<Search> SearchByRegisterdDate(DateTime RegisterdDate)
+        {
+            return _courseRepository.SearchByRegisterdDate(RegisterdDate);
         }
 
         public async Task UpdateCourse(Course course)

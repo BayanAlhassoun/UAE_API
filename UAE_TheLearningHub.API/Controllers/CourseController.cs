@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using UAE_TheLearningHub.Core.Data;
+using UAE_TheLearningHub.Core.DTO;
 using UAE_TheLearningHub.Core.Service;
 
 namespace UAE_TheLearningHub.API.Controllers
@@ -66,5 +67,11 @@ namespace UAE_TheLearningHub.API.Controllers
             return fileName;
         }
 
+        [HttpGet]
+        [Route ("Search/{registerdDate}")]
+        public List<Search> SearchByRegisterdDate(DateTime registerdDate)
+        {
+            return _courseService.SearchByRegisterdDate (registerdDate);
+        }
     }
 }

@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using UAE_TheLearningHub.Core.Data;
+using UAE_TheLearningHub.Core.DTO;
 
 namespace UAE_TheLearningHub.Core.Repository
 {
@@ -17,5 +18,7 @@ namespace UAE_TheLearningHub.Core.Repository
        Task UpdateCourse(Course course);
 
        Task DeleteCourse(int id);
+       List<Search> SearchByRegisterdDate(DateTime RegisterdDate);
+
     }
 }

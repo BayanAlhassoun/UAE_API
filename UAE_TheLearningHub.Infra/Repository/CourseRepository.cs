@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using UAE_TheLearningHub.Core.Common;
 using UAE_TheLearningHub.Core.Data;
+using UAE_TheLearningHub.Core.DTO;
 using UAE_TheLearningHub.Core.Repository;
 
 namespace UAE_TheLearningHub.Infra.Repository
@@ -51,6 +52,14 @@ namespace UAE_TheLearningHub.Infra.Repository
             p.Add("id", id, dbType: DbType.Int32, direction: ParameterDirection.Input);
             var result = await _dbContext.Connection.QueryAsync<Course>("Course_Package.GetCourseById", p, commandType: CommandType.StoredProcedure);
             return result.FirstOrDefault();
+        }
+
+        public List<Search> SearchByRegisterdDate(DateTime RegisterdDate)
+        {
+           var p = new DynamicParameters();
+            p.Add("registeredDate", RegisterdDate , dbType: DbType.DateTime, direction: ParameterDirection.Input);
+            var result = _dbContext.Connection.Query<Search>("Course_Package.SearchByRegisterdDate", p, commandType: CommandType.StoredProcedure);
+            return result.ToList();
         }
 
         public async Task UpdateCourse(Course course)
